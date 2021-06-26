@@ -1,7 +1,10 @@
 
 package twofer
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/s3un/two-fer-algorithm"
+)
 
 func ShareWith(string) {
 	var name string
